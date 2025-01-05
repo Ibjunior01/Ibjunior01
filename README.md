@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Ibermon Júnior! 
+## Bem-vindo(a) ao perfil do Ibermon Junior! 
 
  <div>
    <a href="https://github.com/Ibjunior01">
